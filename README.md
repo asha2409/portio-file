@@ -73,7 +73,7 @@
     </div>
     <pre style="font-size:35px;color:blue;">
     Hey!
-    I'm Kolla Gnana Prasanna from Andra Pradesh!
+    I'm asha muskhan from Andra Pradesh!
     I love programming, taking photos and learning new things!
     </pre>
 </body>
