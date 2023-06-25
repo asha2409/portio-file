@@ -2,7 +2,7 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/3m2nktv/Whats-App-Image-2022-07-25-at-3-14-45-PM.jpg">
+    <link rel="icon" type="image/x-icon" href=""C:\Users\ASHA MUSKAN\OneDrive\Pictures\Snapchat-1197713284 (3).jpg">
     <style>
         body {
             background-image: url('https://media4.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif');
